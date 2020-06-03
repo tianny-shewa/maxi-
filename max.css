@@ -1,0 +1,44 @@
+header {
+    font-size: xx-large;
+    font-family: Times, serif arial, monospace;
+    text-align: center;
+    background-color: teal; 
+    color: cornsilk;
+    line-height: 1px;
+    padding: 1px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    background-color: rgb(250, 246, 228);
+}
+
+img {
+    height: 210px;
+    width: 170px;
+    float: left;
+    padding: 10px;
+    border: 1px solid rgb(247, 243, 228);
+}
+
+.bodycontent {
+    font-family: monospace, arial, 'Times New Roman', Times, serif;
+    line-height: 30px;
+    font-size: 15px;
+    background-color:rgb(250, 246, 228) ;
+    margin: 10px;
+    padding: 10px;
+    margin: 0px;
+}
+
+footer {
+    background-color: rgb(13, 120, 139);
+    max-width: 120px;
+    line-height: 50px;
+    text-align: center;
+    color: cornsilk;
+}
+
+hr {
+    border: 1px solid black;
+}
